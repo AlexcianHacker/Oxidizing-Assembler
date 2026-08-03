@@ -4,6 +4,13 @@ Oxidizing Assembler, Or Oxidized Assembler, Is An Assembler With Rust Safety Che
 
 
 
+## Contributions & Pull Requests 
+
+- This Project Is Open To Collaboration From Anyone, Feel Free To Contribute 
+
+
+
+
 ## OXIDIZING ASSEMBLER SPECIFICATION V0.0.1 (ALPHA) 
 
 
