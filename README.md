@@ -1,5 +1,5 @@
 # Oxidizing-Assembler
-Oxidizing Assembler, Or Oxidized Assembler, Is An Assembler With Rust Safety Checks (Ownership, Borrow Checking, Etc.) 
+Oxidizing Assembler, Or Oxidized Assembler, Is An Assembler With Rust Safety Checks (Ownership, Borrow Checking, Etc.) <br> 
 
 
 
