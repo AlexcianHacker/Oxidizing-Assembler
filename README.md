@@ -52,4 +52,9 @@ Oxidizing Assembler, Or Oxidized Assembler, Is An Assembler With Rust Safety Che
 - Like GCC, A Custom Output File Can Be Set With The -o Or -of Flag. 
 
 
+### FILENAME EXTENSION 
+
+- Will Use Filename Extensions `.oasm`, `.oxs`, `.oxS` 
+
+
 
