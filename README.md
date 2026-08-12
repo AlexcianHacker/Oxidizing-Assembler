@@ -36,6 +36,7 @@ Project Will Attempt To Support The Following Architectures (Primary): <br>
 - MIPS64 <br> 
 - SPARC64 <br> 
 
+<br> 
 Secondary Support Will Attempt To Be Given To The Following Architectures: <br> 
 - x86 / IA-32 (i386 / i686) <br> 
 - ARM32 / AArch32 <br> 
@@ -43,7 +44,7 @@ Secondary Support Will Attempt To Be Given To The Following Architectures: <br>
 - MIPS32 <br> 
 - SPARC32 <br> 
 
-<br> <br> 
+<br> 
 Tertiary Support - Any Contributions Are Welcomed But No Other Attempt Will Be Made To Support The Following Architectures: <br> 
 - Intel Itanium (IA-64) <br> 
 - Z/Architecture (S390x / IBM Z) <br> 
