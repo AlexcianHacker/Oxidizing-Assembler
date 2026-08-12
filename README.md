@@ -43,7 +43,7 @@ Secondary Support Will Attempt To Be Given To The Following Architectures: <br>
 - MIPS32 <br> 
 - SPARC32 <br> 
 
-<br> 
+<br> <br> 
 Tertiary Support - Any Contributions Are Welcomed But No Other Attempt Will Be Made To Support The Following Architectures: <br> 
 - Intel Itanium (IA-64) <br> 
 - Z/Architecture (S390x / IBM Z) <br> 
