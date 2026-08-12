@@ -50,7 +50,7 @@ Tertiary Support - Any Contributions Are Welcomed But No Other Attempt Will Be M
 - Z/Architecture (S390x / IBM Z) <br> 
 
 
-## OXIDIZING ASSEMBLER SPECIFICATION V0.0.1 (ALPHA) 
+## OXIDIZING ASSEMBLER SPECIFICATION V0.0.3 (ALPHA) 
 
 
 
