@@ -14,6 +14,7 @@ Oxidizing Assembler, Or Oxidized Assembler, Is An Assembler With Rust Safety Che
 ## Origin && Progress 
 
 - This Particular Idea Of An Oxidizing Assembler Originated From Alex In June 2026. Later In Late July 2026, The Idea Surfaced During A Discussion Between Alex And His Friend About Low-Level Programming, Where It Was Agreed To Collaborate On Creating The Specification And Implememtation Of The Oxidizing Assembler. 
+- This Project Is Very New, And The Concept Of Rust Memory Safety (And Memory Safety In General) In Assembly Is Generally Uncharted Waters. Therefore The Project Is Considered Highly Experimental For The Time Being, And Will Stay That Way For The Foreseeable Future. 
 
 
 
