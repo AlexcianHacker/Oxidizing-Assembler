@@ -28,25 +28,25 @@ Oxidizing Assembler, Or Oxidized Assembler, Is An Assembler With Rust Safety Che
 ## Architectures 
 
 <br> 
-Project Will Attempt To Support The Following Architectures (Primary): 
-- x64 / AMD64 (x86_64 / Intel64) 
-- ARM64 / AArch64 
-- RISC-V (RV64, RV32) 
-- PowerPC64 / Power64 (Power ISA / OpenPOWER) 
-- MIPS64 
-- SPARC64 
+Project Will Attempt To Support The Following Architectures (Primary): <br>
+- x64 / AMD64 (x86_64 / Intel64) <br>
+- ARM64 / AArch64 <br> 
+- RISC-V (RV64, RV32) <br> 
+- PowerPC64 / Power64 (Power ISA / OpenPOWER) <br> 
+- MIPS64 <br> 
+- SPARC64 <br> 
 
-Secondary Support Will Attempt To Be Given To The Following Architectures: 
-- x86 / IA-32 (i386 / i686) 
-- ARM32 / AArch32 
-- PowerPC32 / Power32 
-- MIPS32 
-- SPARC32 
+Secondary Support Will Attempt To Be Given To The Following Architectures: <br> 
+- x86 / IA-32 (i386 / i686) <br> 
+- ARM32 / AArch32 <br> 
+- PowerPC32 / Power32 <br> 
+- MIPS32 <br> 
+- SPARC32 <br> 
 
 <br> 
-Tertiary Support - Any Contributions Are Welcomed But No Other Attempt Will Be Made To Support The Following Architectures: 
-- Intel Itanium (IA-64) 
-- Z/Architecture (S390x / IBM Z) 
+Tertiary Support - Any Contributions Are Welcomed But No Other Attempt Will Be Made To Support The Following Architectures: <br> 
+- Intel Itanium (IA-64) <br> 
+- Z/Architecture (S390x / IBM Z) <br> 
 
 
 ## OXIDIZING ASSEMBLER SPECIFICATION V0.0.1 (ALPHA) 
