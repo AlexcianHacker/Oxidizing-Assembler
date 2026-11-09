@@ -7,6 +7,7 @@ Oxidizing Assembler, Or Oxidized Assembler, (OX-Assembly) Is An Assembler With R
 ## Contributions & Pull Requests 
 
 - This Project Is Open To Collaboration From Anyone, Feel Free To Contribute <br> 
+- However, I Wish To Remain The Full Owner Of This Project's Copyright To Ensure Software Freedom. Therefore, to any contributors: You hereby assign to the project maintainer (Me) all right, title, and interest in and to your contributions, including all copyrights and other intellectual property rights therein. <br> 
 
 
 
